@@ -47,8 +47,10 @@ body {
 
 h1,
 h6 {
-	font-family: 'Open Sans';
+	font-family: 'Mouse Memoirs', sans-serif;
+	font-size: 15vw;
 	font-weight: 300;
+	opacity: 0.5;
 	text-align: center;
 	position: absolute;
 	top: 45%;
